@@ -1,5 +1,6 @@
 import { loadHomeContent } from './home-content'
 
+import './styles.css'
 const content = document.querySelector('#content')
 
 document.querySelectorAll('button').forEach(button => {
